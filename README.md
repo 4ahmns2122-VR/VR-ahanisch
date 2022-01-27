@@ -1,3 +1,10 @@
+# Allgemeine Beschreibung:
+Man ist in einem dörren Wald, umgeben von toten Bäumen. Die Stimmung ist eher düster wie in der Dämmerung gehalten. Anfangs muss man einen Stein (PickUp) sammeln. Dieser verschwindet danach. Dann stoßt man auf eine "Tür"(sehr vertseckt zwischen den Bäumen), die man nur öffnen kann, wenn man den Stein davor aufgesammelt hat.  Sobald man sich in der Hütte befindet, muss man einen Schneeball vom Boden aufheben. Daraufhin muss man auf eine verfärbte Stelle auf der Tür werfen (funktionalität ähnlich wie eine Zielscheibe). Danch öffnet sich auch diese Tür und man ist im freien.
+
+# Audio:
+-Vogelgezwitscher
+-Waldgeräusche
+
 # XRInteractionToolkitTemplate
 
 ### Project description: 

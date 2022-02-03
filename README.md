@@ -12,29 +12,44 @@ Milestone 3 am 13.1.2022: Schneeball werfen, sodass sich die letzte Tür öffnet
 Mein letzter Milestone wurde auf den 20.1.2022 verschoben. Zu diesem zeitpunkt haben meine beiden Puzzles funktioniert. Die Garfiken waren fertig am 27.1.2022. In der Woche von 27.1.-3.2.2022 habe ich die Sounds gemacht. Am 3.2.2022 funktioniert alles
 
 # Limitations
-Ich wollte eine Hütte mit Decke modellieren, jedoch war es schwierig, die Decke ins Labyrinth zu bringen. Das licht war danach nur noch schlecht, und es wirkte etwas schöner wenn mand en Himmel sieht. 
+Ich wollte eine Hütte mit Decke modellieren, jedoch war es schwierig, die Decke ins Labyrinth zu bringen. Das licht war danach nur noch schlecht, und es wirkte etwas schöner wenn mand en Himmel sieht. Das zweite Puzzle kann ich spielen in Unity. Sobald der Schneebal die Zielscheibe berührt, fährt die ganze Tür mit einer Animation runter. Jedoch funktioniert dieses nicht auf der Occulus Rift. Ich bekomme auch keine Fehlermeldung sei es in Unity (wo es funktioniert) oder auf der Occulus Rift. 
 
 # Arbeitsschritte
--Maze importieren
--Packages importieren
--PickUp aufsammeln
--PickUp zertört sich
--1. Türe öffnen 13.1.2022 
--Animation für die erste Tür machen (fährt runter in den Boden, damit man durchgehen kann)
--Schneeball aufheben
--Schneeball werfen
--2. Tür öffnet sich wenn der Schneeball die Steinzielscheibe trifft 20.1.2022
--Animation für die zweite Tür
--Wald modellieren
--Texturen auf den Objekten
--Sounds einbringen
+- Maze importieren
+- Packages importieren
+- PickUp aufsammeln
+- PickUp zertört sich
+- 1. Türe öffnen 13.1.2022 
+- Animation für die erste Tür machen (fährt runter in den Boden, damit man durchgehen kann)
+- Schneeball aufheben
+- Schneeball werfen
+- 2. Tür öffnet sich wenn der Schneeball die Steinzielscheibe trifft 20.1.2022
+- Animation für die zweite Tür
+- Wald modellieren
+- Texturen auf den Objekten
+- Sounds einbringen
 
 
 # Audio:
--Vogelgezwitscher
--Waldgeräusche
--Bing bei aufsammeln des Pickups
--Geräusch wenn sich die erste Tür öffnet
+- Vogelgezwitscher
+- Waldgeräusche
+- "Bing" bei aufsammeln des Pickups
+- Geräusch wenn sich die erste Tür öffnet
+- Geräusch wenn sich die zweite Tür öffnet
+
+# Packages
+- JetBrains Rider Edition
+- Oculus XR Plugin
+- Test framework
+- TextMeshPro
+- Timeline
+- Unity UI
+- Version Control
+- Visual Studio Code Editor
+- Visual Studio Editor
+- XR Interaction Toolkit
+- XR Plugin Management
+
 
 # XRInteractionToolkitTemplate
 

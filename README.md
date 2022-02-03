@@ -37,6 +37,8 @@ Ich wollte eine Hütte mit Decke modellieren, jedoch war es schwierig, die Decke
 - Geräusch wenn sich die erste Tür öffnet
 - Geräusch wenn sich die zweite Tür öffnet
 
+Durch die Atmosphere Sounds (Waldgeräusche und Vogelgezwitscher), soll der Wald etwas lebendiger wirken und das Gefühl, man ist in einem Wald soll etwas mehr rüber kommen. Da das Pickup einfach verschwindet, nachdem man es mit der Kamera berührt hat, fällt einem manchmal nicht auf, dass man es schon eingesammelt hat. Das "Bing" dient dazu, dass es eindeutig ist, dass man das Pickup eingesammelt hat.
+
 # Packages
 - JetBrains Rider Edition
 - Oculus XR Plugin
@@ -49,6 +51,7 @@ Ich wollte eine Hütte mit Decke modellieren, jedoch war es schwierig, die Decke
 - Visual Studio Editor
 - XR Interaction Toolkit
 - XR Plugin Management
+
 
 
 # XRInteractionToolkitTemplate
